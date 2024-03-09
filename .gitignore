@@ -50,3 +50,11 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/HW14.3.3/v17
+/.vs
+/TelBook/.vs/TelBook/DesignTimeBuild
+/TelBook/.vs/TelBook/FileContentIndex
+/TelBook/.vs/TelBook/v17
+/TelBook/TelBook/bin/Debug/net7.0
+/TelBook/TelBook/obj/Debug/net7.0
+/TelBook/TelBook/obj
